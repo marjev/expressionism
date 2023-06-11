@@ -1,6 +1,6 @@
 # expressionism - LMS for expressing ideas
 
-A part of the greater architectural vision which also contains:
+## Additional components
 - CMS
 - KMS
 
@@ -13,3 +13,6 @@ A part of the greater architectural vision which also contains:
 - teaching element(s)
 
 - appropriate databases
+
+### Powered by
+![](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
